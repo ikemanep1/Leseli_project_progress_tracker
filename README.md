@@ -4,4 +4,7 @@
 I initialized this README to keep track of my progress.
 
 -10:15 AM:
-I copied a REACT project to redesign into Leseli. 
+I copied a REACT project to redesign into Leseli.
+
+-10:30 AM:
+I downloaded Leseli from Github and npm i, continued chatting with team members.
