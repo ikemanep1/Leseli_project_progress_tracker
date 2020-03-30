@@ -8,3 +8,6 @@ I copied a REACT project to redesign into Leseli.
 
 -10:30 AM:
 I downloaded Leseli from Github and npm i, continued chatting with team members.
+
+-10:45 AM:
+I collaborated with team members and made myself breakfast.
